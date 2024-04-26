@@ -4,7 +4,15 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=shohan1010&label=Profile%20views&color=0e75b6&style=flat)
 
-<img align="right" width='400' src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/0/1616667695311?e=1719446400&v=beta&t=xSGkIGrCkkqI_VHAhML6B3BYBPpFZvnnMbInCPUFja0" alt="Cover Image">
+<div style="overflow: hidden; border-radius: 50%; width: 400px; height: 400px;">
+  <img align="right" width="400" src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/0/1616667695311?e=1719446400&v=beta&t=xSGkIGrCkkqI_VHAhML6B3BYBPpFZvnnMbInCPUFja0" alt="Cover Image">
+</div>
+
+
+
+
+
+
 
 - 🌱 I’m currently learning **Data Science**
 
@@ -12,7 +20,7 @@
 
 - 📫 How to reach me: [sabbirshohan80@gmail.com](mailto:sabbirshohan80@gmail.com)
 
-- ⚡ Fun fact: **Did you know that there are more repositories on GitHub than there are stars in the sky? With millions of developers around the world contributing to countless projects, GitHub has become a vast universe of code, creativity, and collaboration. Just like stars in the sky, each repository shines with its unique brilliance, illuminating the ever-expanding landscape of technology and innovation.**
+- ⚡ Fun fact: **Did you know that there are more repositories on GitHub than there are stars in the sky?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
