@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shohan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shohan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Shohan" /> </p>
 
 <p align="left"> <a href="https://x.com/shohandev" target="blank"><img src="https://img.shields.io/twitter/follow/shohandev?logo=twitter&style=for-the-badge" alt="shohandev"  </p>
 
@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://shohan.dev/](https://shohan.dev/)
+- 👨‍💻 All of my projects are available at [https://www.shohan.dev/](https://www.shohan.dev/)
 
 - 📫 How to reach me: [shohan.dev.cse@gmail.com](mailto:shohan.dev.cse@gmail.com)
 
