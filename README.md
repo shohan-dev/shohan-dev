@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shohan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-<p align="left"> <a href="https://x.com/shohandev" target="blank"><img src="https://img.shields.io/twitter/follow/shohan4567?logo=twitter&style=for-the-badge" alt="shohandev"  </p>
+<p align="left"> <a href="https://x.com/shohandev" target="blank"><img src="https://img.shields.io/twitter/follow/shohandev?logo=twitter&style=for-the-badge" alt="shohandev"  </p>
 
 
 
