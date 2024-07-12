@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/700f2ecd2ca652d02ff0705ebdf8c4ee71dfbbe0d67fc02950f84eb251242ab9/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)](http://srshohan.rf.gd/)
+[![MasterHead](https://camo.githubusercontent.com/700f2ecd2ca652d02ff0705ebdf8c4ee71dfbbe0d67fc02950f84eb251242ab9/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)](http://shohan.dev/)
 
 
 
@@ -10,9 +10,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shohan1010&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shohan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shohan4567" target="blank"><img src="https://img.shields.io/twitter/follow/shohan4567?logo=twitter&style=for-the-badge" alt="shohan4567"  </p>
+<p align="left"> <a href="https://x.com/shohandev" target="blank"><img src="https://img.shields.io/twitter/follow/shohan4567?logo=twitter&style=for-the-badge" alt="shohandev"  </p>
 
 
 
@@ -21,18 +21,18 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [http://srshohan.rf.gd/](http://srshohan.rf.gd/)
+- 👨‍💻 All of my projects are available at [http://shohan.dev//](http://shohan.dev//)
 
-- 📫 How to reach me: [sabbirshohan80@gmail.com](mailto:sabbirshohan80@gmail.com)
+- 📫 How to reach me: [shohan.dev.cse@gmail.com](mailto:shohan.dev.cse@gmail.com)
 
 - ⚡ Fun fact: **Did you know that there are more repositories on GitHub than there are stars in the sky?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/shohan1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shohan1010" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shohan1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shohan1010" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sabbirshohan80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sabbirshohan80" height="30" width="40" /></a>
-<a href="https://fb.com/psychohashcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="psychohashcoder" height="30" width="40" /></a>
+<a href="https://dev.to/shohan-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shohan-dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shohandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shohandev" height="30" width="40" /></a>
+<a href="https://codesandbox.com/shohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shohan" height="30" width="40" /></a>
+<a href="https://fb.com/shohan.dev.cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shohan.dev.cse" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shohan1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shohan1010" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shohan1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shohan1010" height="30" width="40" /></a>
 </p>
@@ -43,7 +43,7 @@
 <h3 align="left">Support</h3>
 
 <p align="left">
-  <a href="https://ko-fi.com/shohan1010" target="_blank">
+  <a href="https://ko-fi.com/shohandev" target="_blank">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" height="50" width="210" />
   </a>
 </p>
@@ -54,9 +54,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shohan1010&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shohan-dev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shohan1010&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shohan-dev&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shohan1010&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shohan-dev&&theme=tokyonight" alt="rishavchanda" /></p>
 
