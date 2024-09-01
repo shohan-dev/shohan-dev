@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://www.shohan.dev/](https://www.shohan.dev/)
+- 👨‍💻 All of my projects are available at [https://shohan.dev/](https://shohan.dev/)
 
 - 📫 How to reach me: [shohan.dev.cse@gmail.com](mailto:shohan.dev.cse@gmail.com)
 
